@@ -26,15 +26,16 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"business": {
-				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
-				"code": "INF",
-				"name": "Infrastructure"
-			},
+
 			"process": {
 				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
 				"name": "Test Process 3",
-				"processId": "test_03"
+				"processId": "test_03",
+				"business": {
+					"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+					"code": "INF",
+					"name": "Infrastructure"
+				}
 			},
 			"activity": {
 				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
@@ -69,15 +70,16 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"business": {
-				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
-				"code": "INF",
-				"name": "Infrastructure"
-			},
+
 			"process": {
 				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
 				"name": "Test Process 3",
-				"processId": "test_03"
+				"processId": "test_03",
+				"business": {
+					"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+					"code": "INF",
+					"name": "Infrastructure"
+				}
 			},
 			"activity": {
 				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
@@ -112,15 +114,16 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"business": {
-				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
-				"code": "INF",
-				"name": "Infrastructure"
-			},
+
 			"process": {
 				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
 				"name": "Test Process 3",
-				"processId": "test_03"
+				"processId": "test_03",
+				"business": {
+					"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+					"code": "INF",
+					"name": "Infrastructure"
+				}
 			},
 			"activity": {
 				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
