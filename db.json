@@ -1,1 +1,132 @@
-
+{
+	"templates": [{
+			"id": "1a378936-6377-498e-9c39-25352ef79103",
+			"reference": "test reference update",
+			"version": "A",
+			"applicableDate": "24-06-2019",
+			"status": "DRAFT",
+			"createdBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"verifiedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"approvedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"business": {
+				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+				"code": "INF",
+				"name": "Infrastructure"
+			},
+			"process": {
+				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
+				"name": "Test Process 3",
+				"processId": "test_03"
+			},
+			"activity": {
+				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
+				"name": "acttivity_1",
+				"active": true
+			}
+		},
+		{
+			"id": "1a378936-6377-498e-9c39-25352ef79104",
+			"reference": "test reference update",
+			"version": "A",
+			"applicableDate": "24-06-2019",
+			"status": "DRAFT",
+			"createdBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"verifiedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"approvedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"business": {
+				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+				"code": "INF",
+				"name": "Infrastructure"
+			},
+			"process": {
+				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
+				"name": "Test Process 3",
+				"processId": "test_03"
+			},
+			"activity": {
+				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
+				"name": "acttivity_1",
+				"active": true
+			}
+		},
+		{
+			"id": "1a378936-6377-498e-9c39-25352ef79106",
+			"reference": "test reference update",
+			"version": "A",
+			"applicableDate": "24-06-2019",
+			"status": "DRAFT",
+			"createdBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"verifiedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"approvedBy": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"business": {
+				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+				"code": "INF",
+				"name": "Infrastructure"
+			},
+			"process": {
+				"id": "891ade38-906b-45a5-bfe7-ae119b115409",
+				"name": "Test Process 3",
+				"processId": "test_03"
+			},
+			"activity": {
+				"id": "b59112ec-02cb-4558-878d-f9a7566223e3",
+				"name": "acttivity_1",
+				"active": true
+			}
+		}
+	]
+}
