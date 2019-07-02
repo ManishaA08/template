@@ -49,7 +49,8 @@
 					"name": "acttivity_1",
 					"active": true
 				},
-				"active": true
+				"active": true,
+				"hasQuestions": false
 			},
 			{
 				"id": "1a378936-6377-498e-9c39-25352ef79105",
@@ -100,7 +101,33 @@
 					"name": "acttivity_1",
 					"active": true
 				},
-				"active": true
+				"active": true,
+				"hasQuestions": true,
+				"questions": [{
+						"id": "1fc964ce-36d6-4e82-a534-4740598f84e3",
+						"references": [
+							"hi_2,bye_2"
+						],
+						"question": "Test Question_2",
+						"deliverable": "Test Deliverable_2"
+					},
+					{
+						"id": "85311d07-b126-4a0e-892d-9706a1d92910",
+						"references": [
+							"hi_5,bye_5"
+						],
+						"question": "Test Question_2",
+						"deliverable": "Test Deliverable_2"
+					},
+					{
+						"id": "f2caeeba-e991-421c-83d2-d85eaf651f2f",
+						"references": [
+							"hi_4,bye_4"
+						],
+						"question": "Test Question_3",
+						"deliverable": "Test Deliverable_3"
+					}
+				]
 			},
 			{
 				"id": "1a378936-6377-498e-9c39-25352ef79106",
