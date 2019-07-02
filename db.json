@@ -109,7 +109,7 @@
 							"hi_2,bye_2"
 						],
 						"question": "Test Question_2",
-						"deliverable": "Test Deliverable_2"
+						"deliverables": "Test Deliverable_2"
 					},
 					{
 						"id": "85311d07-b126-4a0e-892d-9706a1d92910",
@@ -117,7 +117,7 @@
 							"hi_5,bye_5"
 						],
 						"question": "Test Question_2",
-						"deliverable": "Test Deliverable_2"
+						"deliverables": "Test Deliverable_2"
 					},
 					{
 						"id": "f2caeeba-e991-421c-83d2-d85eaf651f2f",
@@ -125,7 +125,7 @@
 							"hi_4,bye_4"
 						],
 						"question": "Test Question_3",
-						"deliverable": "Test Deliverable_3"
+						"deliverables": "Test Deliverable_3"
 					}
 				]
 			},
