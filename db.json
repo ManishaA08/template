@@ -5,7 +5,7 @@
 				"reference": "test reference update",
 				"version": "A",
 				"applicableDate": null,
-				"status": "DRAFT",
+				"status": "VALIDATED",
 				"createdBy": {
 					"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
 					"employeeId": "424283",
