@@ -235,6 +235,7 @@
 		]
 	},
 	"rights": {
+		"MDVW": true,
 		"TVW": true,
 		"TE": false,
 		"QE": true,
