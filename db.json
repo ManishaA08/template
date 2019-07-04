@@ -233,5 +233,15 @@
 				"active": true
 			}
 		]
+	},
+	"rights": {
+		"TVW": true,
+		"TE": false,
+		"QE": true,
+		"QVW": true,
+		"TCN": true,
+		"TR": true,
+		"TA": false,
+		"TV": true
 	}
 }
