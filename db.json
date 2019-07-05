@@ -234,17 +234,28 @@
 			}
 		]
 	},
-	"rights": {
-		"MDVW": true,
-		"TVW": true,
-		"TE": false,
-		"QE": true,
-		"QVW": true,
-		"TCN": true,
-		"TR": true,
-		"TA": false,
-		"TV": true
-	},
+	"application-roles": [{
+			"id": "0",
+			"name": "Process Owner",
+			"code": "PO",
+			"verified": true,
+			"deleted": false
+		},
+		{
+			"id": "1",
+			"name": "Admin",
+			"code": "AD",
+			"verified": true,
+			"deleted": false
+		},
+		{
+			"id": "2",
+			"name": "QMS MAnager",
+			"code": "QMS",
+			"verified": true,
+			"deleted": false
+		}
+	],
 	"applications": [{
 		"id": "123",
 		"name": "Process Adherence Tool",
@@ -252,5 +263,5 @@
 		"verified": true,
 		"deleted": false
 	}],
-	"application-roles": ["MDVW", "TVW", "TE", "QE", "QVW", "TCN", "TR", "TA", "TV"]
+	"rights": ["MDVW", "TVW", "TE", "QE", "QVW", "TCN", "TR", "TA", "TV"]
 }
