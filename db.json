@@ -235,26 +235,60 @@
 		]
 	},
 	"application-roles": [{
-			"id": "0",
-			"name": "Process Owner",
-			"code": "PO",
-			"verified": true,
+			"id": "ar1",
+			"application": {
+				"id": "123",
+				"name": "Process Adherence Tool",
+				"code": "PAT",
+				"verified": true,
+				"deleted": false
+			},
+			"role": {
+				"id": "0",
+				"name": "Process Owner",
+				"code": "PO",
+				"verified": true,
+				"deleted": false
+			},
 			"deleted": false
 		},
 		{
-			"id": "1",
-			"name": "Admin",
-			"code": "AD",
-			"verified": true,
+			"id": "ar1",
+			"application": {
+				"id": "123",
+				"name": "Process Adherence Tool",
+				"code": "PAT",
+				"verified": true,
+				"deleted": false
+			},
+			"role": {
+				"id": "1",
+				"name": "Admin",
+				"code": "AD",
+				"verified": true,
+				"deleted": false
+			},
 			"deleted": false
 		},
 		{
-			"id": "2",
-			"name": "QMS MAnager",
-			"code": "QMS",
-			"verified": true,
+			"id": "ar1",
+			"application": {
+				"id": "123",
+				"name": "Process Adherence Tool",
+				"code": "PAT",
+				"verified": true,
+				"deleted": false
+			},
+			"role": {
+				"id": "2",
+				"name": "QMS MAnager",
+				"code": "QMS",
+				"verified": true,
+				"deleted": false
+			},
 			"deleted": false
 		}
+
 	],
 	"applications": [{
 		"id": "123",
