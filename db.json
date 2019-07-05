@@ -297,5 +297,32 @@
 		"verified": true,
 		"deleted": false
 	}],
-	"rights": ["MDVW", "TVW", "TE", "QE", "QVW", "TCN", "TR", "TA", "TV"]
+	"rights": [{
+		"name": "Master Data View",
+		"code": "MDVW"
+	}, {
+		"name": "Template View",
+		"code": "TVW"
+	}, {
+		"name": "Template Edit",
+		"code": "TE"
+	}, {
+		"name": "Question Edit",
+		"code": "QE"
+	}, {
+		"name": "Question View",
+		"code": "QVW"
+	}, {
+		"name": "Template Create New Version",
+		"code": "TCN"
+	}, {
+		"name": "Template Reject",
+		"code": "TR"
+	}, {
+		"name": "Template Approve",
+		"code": "TA"
+	}, {
+		"name": "Template Validate",
+		"code": "TV"
+	}]
 }
