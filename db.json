@@ -244,5 +244,13 @@
 		"TR": true,
 		"TA": false,
 		"TV": true
-	}
+	},
+	"applications": [{
+		"id": "123",
+		"name": "Process Adherence Tool",
+		"code": "PAT",
+		"verified": true,
+		"deleted": false
+	}],
+	"application-roles": ["MDVW", "TVW", "TE", "QE", "QVW", "TCN", "TR", "TA", "TV"]
 }
