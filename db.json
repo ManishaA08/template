@@ -299,30 +299,39 @@
 	}],
 	"rights": [{
 		"name": "Master Data View",
-		"code": "MDVW"
+		"code": "MDVW",
+		"verified": false
 	}, {
 		"name": "Template View",
-		"code": "TVW"
+		"code": "TVW",
+		"verified": true
 	}, {
 		"name": "Template Edit",
-		"code": "TE"
+		"code": "TE",
+		"verified": true
 	}, {
 		"name": "Question Edit",
-		"code": "QE"
+		"code": "QE",
+		"verified": false
 	}, {
 		"name": "Question View",
-		"code": "QVW"
+		"code": "QVW",
+		"verified": true
 	}, {
 		"name": "Template Create New Version",
-		"code": "TCN"
+		"code": "TCN",
+		"verified": true
 	}, {
 		"name": "Template Reject",
-		"code": "TR"
+		"code": "TR",
+		"verified": true
 	}, {
 		"name": "Template Approve",
-		"code": "TA"
+		"code": "TA",
+		"verified": true
 	}, {
 		"name": "Template Validate",
-		"code": "TV"
+		"code": "TV",
+		"verified": true
 	}]
 }
