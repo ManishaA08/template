@@ -300,38 +300,47 @@
 	"rights": [{
 		"name": "Master Data View",
 		"code": "MDVW",
-		"verified": false
+		"verified": false,
+		"id": "1232"
 	}, {
 		"name": "Template View",
 		"code": "TVW",
-		"verified": true
+		"verified": true,
+		"id": "125"
 	}, {
 		"name": "Template Edit",
 		"code": "TE",
-		"verified": true
+		"verified": true,
+		"id": "133"
 	}, {
 		"name": "Question Edit",
 		"code": "QE",
-		"verified": false
+		"verified": false,
+		"id": "123"
 	}, {
 		"name": "Question View",
 		"code": "QVW",
-		"verified": true
+		"verified": true,
+		"id": "1273"
 	}, {
 		"name": "Template Create New Version",
 		"code": "TCN",
-		"verified": true
+		"verified": true,
+		"id": "1"
 	}, {
 		"name": "Template Reject",
 		"code": "TR",
-		"verified": true
+		"verified": true,
+		"id": "0"
 	}, {
 		"name": "Template Approve",
 		"code": "TA",
-		"verified": true
+		"verified": true,
+		"id": "22"
 	}, {
 		"name": "Template Validate",
 		"code": "TV",
-		"verified": true
+		"verified": true,
+		"id": "44"
 	}]
 }
