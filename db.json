@@ -290,13 +290,55 @@
 		}
 
 	],
-	"applications": [{
-		"id": "123",
-		"name": "Process Adherence Tool",
-		"code": "PAT",
-		"verified": true,
-		"deleted": false
-	}],
+	"emails": [{
+			"id": "0",
+			"trigger": "template-approve",
+			"recipient": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Process Owner",
+					"code": "PO",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been approved.",
+			"verified": false
+		},
+		{
+			"id": "1",
+			"trigger": "template-validate",
+			"recipient": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Quality Director",
+					"code": "QD",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been validated.",
+			"verified": false
+		}
+	],
 	"rights": [{
 		"name": "Master Data View",
 		"code": "MDVW",
