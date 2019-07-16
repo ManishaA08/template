@@ -310,6 +310,23 @@
 					"deleted": false
 				},
 				"deleted": false
+			}, {
+				"id": "ar2",
+				"application": {
+					"id": "1333",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "QMS Manager",
+					"code": "QMS",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
 			}],
 			"body": "The tempalte with version A has been approved.",
 			"verified": false
