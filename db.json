@@ -293,7 +293,7 @@
 	"emails": [{
 			"id": "0",
 			"trigger": "template-approve",
-			"recipient": [{
+			"recipients": [{
 				"id": "ar1",
 				"application": {
 					"id": "123",
@@ -334,7 +334,7 @@
 		{
 			"id": "1",
 			"trigger": "template-validate",
-			"recipient": [{
+			"recipients": [{
 				"id": "ar1",
 				"application": {
 					"id": "123",
