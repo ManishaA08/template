@@ -126,6 +126,102 @@
 			}],
 			"body": "The tempalte with version A has been validated.",
 			"verified": false
+		},
+		{
+			"id": "2",
+			"trigger": "template-validate",
+			"recipients": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Quality Director",
+					"code": "QD",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been validated.",
+			"verified": false
+		},
+		{
+			"id": "3",
+			"trigger": "template-validate",
+			"recipients": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Quality Director",
+					"code": "QD",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been validated.",
+			"verified": false
+		},
+		{
+			"id": "4",
+			"trigger": "template-validate",
+			"recipients": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Quality Director",
+					"code": "QD",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been validated.",
+			"verified": false
+		},
+		{
+			"id": "5",
+			"trigger": "template-validate",
+			"recipients": [{
+				"id": "ar1",
+				"application": {
+					"id": "123",
+					"name": "Process Adherence Tool",
+					"code": "PAT",
+					"verified": true,
+					"deleted": false
+				},
+				"role": {
+					"id": "0",
+					"name": "Quality Director",
+					"code": "QD",
+					"verified": true,
+					"deleted": false
+				},
+				"deleted": false
+			}],
+			"body": "The tempalte with version A has been validated.",
+			"verified": false
 		}
 	],
 	"rights": [{
